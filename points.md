@@ -1,5 +1,3 @@
-ZUP, IMPULSO, BOSSABOX, ZUP
-
 ### Points
 
 ## O problema
