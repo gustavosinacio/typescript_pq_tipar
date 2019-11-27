@@ -1,4 +1,4 @@
-### CHALLENGE. CODE. REWARDS
+### CHALLENGES. CODE. REWARDS
 
 ## O problema
 
